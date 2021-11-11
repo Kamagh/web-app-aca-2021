@@ -1,2 +1,2 @@
 # web-app-aca-2021
-Sample repo
+Sample repo for studying git
